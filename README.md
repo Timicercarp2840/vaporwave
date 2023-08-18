@@ -12,4 +12,7 @@ Los archivos restantes deben ser ubicados en una carpeta llamada 'vaporwave' en 
 dependencias: sddm, qt5-base, qt5-effects, qt5-quickcontrols2, qt5-svg
 asegúrate de que estén actualizados.
 
+actualizacion: he añadido una carpeta llamada vaporwaveblur 
+la instalacion es la misma pero en vez de poner la carpeta completa se pone la carpeta vaporwaveblur en la carpeta de temas de sddm
+
 el fondo original es sugar-dark, esta version es una version modificada mia.
